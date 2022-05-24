@@ -1,0 +1,12 @@
+{
+    "short_name": "coreapp-expoandes",
+    "name": "La funcionalidad inicial de login and signUp",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "16x16",
+            "type": "image/x-icon"
+        }
+    ],
+    "start-url": "."
+}

@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+form {
+    /* width: -webkit-fill-available; */
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+
+form input {
+    max-width: 15rem;
+    width: inherit;
+}
+
+form button {
+    max-width: 15rem;
+}
+
+.error {
+    color: red;
+    font-size: 1.2rem;
+    margin: 1rem;
+    padding: 0.5rem;
+    border: 1px solid red;
+    text-align: center;
+}
